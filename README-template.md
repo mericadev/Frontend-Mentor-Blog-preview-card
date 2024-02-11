@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/mericadev/Frontend-Mentor-Blog-preview-card.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: ( https://mericadev.github.io/Frontend-Mentor-Blog-preview-card/)
 
 ## My process
 
